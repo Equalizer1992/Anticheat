@@ -13,5 +13,35 @@ Fivem Anticheat 2024 | Anti Eulen | Anti Redengine | Anti Skript.gg
 
 [Lua Menus Showcase](https://youtu.be/AH7j8nF3zD4)
 
-Features
-✅ Supports standalone / QB / ESX
+✅ Executor Detections
+- Eulen
+- RedEngine
+- Skript.gg
+- HX Softwares
+- Others
+
+✅ Lua Menu Detections :
+- nexus
+- crown all versions
+- absolute
+- brutan all versions
+- blood-x
+- dopamine
+- alien
+- falcon
+- hoax
+- five-sense
+- hydro
+- insec
+- skidmenu
+- sugarmenu
+- extrude
+- lynx
+- fallout
+- wavemenu
+- tiago
+- cobra
+- lux
+- others
+
+🛡️ Supports standalone / QB / ESX
